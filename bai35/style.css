@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+.content1:empty {
+  background-color: aqua;
+  width: 60px;
+  height: 80px;
+}
+
+.content {
+  background-color: red;
+  font-size: 20px;
+  padding: 20px;
+  width: 10%;
+  height: 20px;
+}
+.edit {
+  padding: 20px;
+  max-width: 30%;
+}
+
+h2:target {
+  color: aqua;
+}
